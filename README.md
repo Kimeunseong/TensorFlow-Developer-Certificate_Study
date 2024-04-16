@@ -3,7 +3,7 @@
 coursera : [DeepLearning.AI TensorFlow Developer Professional Certificate
 ](https://www.coursera.org/programs/learning-program-qth60/professional-certificates/tensorflow-in-practice?collectionId=zg44d)
 
-자격증(발급일자: 2024/04/14) : [link](![image](https://github.com/Kimeunseong/TensorFlow-Developer-Certificate_Study/assets/111672496/d49752a9-0ed1-4e51-9197-035fe690fa04))
+자격증(발급일자: 2024/04/14) : [link](https://www.credential.net/7e0c69c7-c0d2-440a-8426-a62b4ebc79f7#gs.7hc7jr)
 
 ![image](https://github.com/Kimeunseong/TensorFlow-Developer-Certificate_Study/assets/111672496/2c484a3a-c5bc-455d-838d-3ffbcc33af0b)
 
